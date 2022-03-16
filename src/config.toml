@@ -1,0 +1,8 @@
+general_language = "en"
+import_UseCalendar = true
+import_IDNew = true
+import_IDFind = false
+import_ClientNew = false
+import_ClientFind = false
+export_IDFind = true
+database_query = "mongodb+srv://{}:{}@testdb-bla2l.mongodb.net/test?retryWrites=true"
